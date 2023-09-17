@@ -10,6 +10,6 @@ def send_message(numero, mensaje):
   what.sendwhatmsg(numero, mensaje, date.hour,date.minute)
 def send_image(numero, imagen):
   seconds = time.time() + 60
-  date = datetime.fromimestamp(seconds)
+  date = datetime.fromtimestamp(seconds)
   what.sendwhats_image(numero,imagen)
   
