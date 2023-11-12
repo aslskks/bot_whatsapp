@@ -1,6 +1,6 @@
-# titulo
+# mandar mensajes whatsapp
 
-&nbsp;descripcion
+&nbsp;manda mensajes atravez de whatsapp es necesario iniciar secion en https://web.whatsapp.com
 
 ## Requisitos
 
